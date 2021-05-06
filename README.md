@@ -2,7 +2,7 @@
 
 # Projeto LabEddit
 
-### Um projeto pessoal inspirado no Reddit.
+### Um projeto pessoal inspirado no Reddit utilizando uma API particular.
 
 ## Tecnologias utilizadas:
 - React
